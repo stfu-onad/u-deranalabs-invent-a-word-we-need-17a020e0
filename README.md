@@ -7,11 +7,12 @@
 Entry for the make.fun bounty
 [u-deranalabs-invent-a-word-we-need-17a020e0](https://make.fun/c/u-deranalabs-invent-a-word-we-need-17a020e0)
 
-`main.py` (Python 3.13, standard library only) writes one invented English word
-with a one-line definition to `/output/entry.txt`.
+`main.py` (Python 3.13, standard library only) coins one new English word and
+writes it with a one-line definition to `/output/entry.txt`.
 
-The word: **Textpectation** — the anxious wait for a reply while the typing
-dots appear, vanish, and appear again.
+The word: **Inboxiety** — the quiet dread of opening an inbox that only ever
+grows. A blend of *inbox* + *anxiety*, naming the low dread that builds while
+unread counts climb.
 
 Run it:
 
@@ -19,4 +20,4 @@ Run it:
 python3 main.py
 ```
 
-Then read `/output/entry.txt`.
+Then read `/output/entry.txt`. The entry is one line, 69 characters.
